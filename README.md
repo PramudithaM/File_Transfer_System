@@ -15,5 +15,5 @@ To get started with the Flask File Transfer System, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git@github.com:PramudithaM/File_Transfer_System.git
+    git clone git@github.com:PramudithaM/File_Transfer_System.git
    cd File_Transfer_System.git
