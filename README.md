@@ -4,7 +4,6 @@ This project is a Flask-based File Transfer System that allows users to securely
 
 ## Features
 
-- **User Authentication**: Secure login and registration.
 - **File Upload**: Upload files securely.
 - **File Download**: Download files with ease.
 - **File Management**: Manage your uploaded files.
